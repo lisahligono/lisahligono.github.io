@@ -1,0 +1,26 @@
+# https://fontawesome.com/
+# https://jpswalsh.github.io/academicons/
+- name: Google Scholar
+  link: https://scholar.google.com/citations?user=to3X9roAAAAJ&hl=en
+  icon:
+    source: ai
+    name: ai-google-scholar-square
+    type: ai
+- name: Twitter
+  link: https://twitter.com/gabriel_tseng
+  icon:
+    source: fa
+    name: fa-twitter
+    type: fab
+- name: GitHub
+  link: https://github.com/gabrieltseng
+  icon:
+    source: fa
+    name: fa-github
+    type: fab
+- name: Email
+  link: mailto:gabrieltseng95@gmail.com
+  icon:
+    source: fa
+    name: fa-envelope
+    type: far

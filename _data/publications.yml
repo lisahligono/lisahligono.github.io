@@ -1,0 +1,123 @@
+- title: "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries"
+  authors:
+    - Gabriel Tseng
+    - Ruben Cartuyvels
+    - Ivan Zvonkov
+    - Mirali Purohit
+    - David Rolnick
+    - Hannah Kerner
+  year: 2023
+  journal: Neural Information Processing Systems (NeurIPS), Workshop on Tackling climate change with machine learning
+  misc: Spotlight
+  tags:
+    - tag: arXiv
+      link: https://arxiv.org/abs/2304.14065
+    - tag: code
+      link: https://github.com/nasaharvest/presto
+    - tag: workshop
+      link: https://www.climatechange.ai/papers/neurips2023/58
+- title: "Semi-Supervised Object Detection for Agriculture"
+  authors:
+    - Gabriel Tseng
+    - Krisztina Sinkovics
+    - Tom Watsham
+    - David Rolnick
+    - Thomas C Walters
+  year: 2023
+  journal: AAAI Conference on Artificial Intelligence, AI for Agriculture and Food Systems (AIAFS) workshop
+  tags:
+    - tag: openreview
+      link: https://openreview.net/pdf?id=AR4SAOzcuz
+    - tag: code
+      link: https://github.com/SmallRobotCompany/smallteacher
+- title: "TIML: Task-Informed Meta-Learning for agriculture"
+  authors:
+    - Gabriel Tseng
+    - Hannah Kerner
+    - David Rolnick
+  year: 2022
+  journal: AAAI Conference on Artificial Intelligence, AI for Agriculture and Food Systems (AIAFS) workshop
+  tags:
+    - tag: arxiv
+      link: https://arxiv.org/abs/2202.02124
+    - tag: code
+      link: https://github.com/nasaharvest/timl
+  misc: Long Talk
+- title: "CropHarvest: A global dataset for crop-type classification"
+  authors:
+    - Gabriel Tseng
+    - Ivan Zvonkov
+    - Catherine Nakalembe
+    - Hannah Kerner
+  year: 2021
+  journal: Neural Information Processing Systems (NeurIPS) datasets and benchmarks track
+  tags:
+    - tag: openreview
+      link: https://openreview.net/forum?id=JtjzUXPEaCu
+    - tag: code
+      link: https://github.com/nasaharvest/cropharvest
+- title: "Learning to predict crop type from heterogeneous sparse labels using meta-learning"
+  authors:
+    - Gabriel Tseng
+    - Hannah Kerner
+    - Catherine Nakalembe
+    - Inbal Becker-Reshef
+  year: 2021
+  journal: Computer Vision and Pattern Recognition (CVPR), EarthVision workshop
+  tags:
+    - tag: PDF
+      link: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.pdf
+    - tag: paper
+      link: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.html
+    - tag: code
+      link: https://github.com/nasaharvest/crop-maml
+- title: "Annual and In-Season Mapping of Cropland at Field Scale with Sparse Labels"
+  authors:
+    - Gabriel Tseng
+    - Hannah Kerner
+    - Catherine Nakalembe
+    - Inbal Becker-Reshef
+  year: 2020
+  journal: Neural Information Processing Systems (NeurIPS), Workshop on Tackling climate change with machine learning
+  tags:
+    - tag: PDF
+      link: https://www.climatechange.ai/papers/neurips2020/29/paper.pdf
+    - tag: talk
+      link: https://www.climatechange.ai/papers/neurips2020/29
+    - tag: code
+      link: https://github.com/nasaharvest/kenya-crop-mask
+- title: "Rapid Response Crop Maps in Data Sparse Regions"
+  authors:
+    - Hannah Kerner
+    - Gabriel Tseng
+    - Inbal Becker-Reshef
+    - Catherine Nakalembe
+    - Brian Barker
+    - Blake Munshell
+    - Madhava Paliyam
+    - Mehdi Hosseini
+  year: 2020
+  journal: Knowledge Discovery and Data (KDD), Workshop on Humanitarian Mapping
+  tags:
+    - tag: arxiv
+      link: https://arxiv.org/abs/2006.16866
+    - tag: code
+      link: https://github.com/nasaharvest/togo-crop-mask
+- title: A machine learning pipeline to predict vegetation health
+  authors:
+    - Thomas Lees
+    - Gabriel Tseng
+    - Alex Hernandez-Garcia
+    - Clement Atzberger
+    - Simon Dadson
+    - Steven Reece
+  year: 2020
+  journal: International Conference on Learning Representations (ICLR), Workshop on Tackling climate change with machine learning
+  tags:
+    - tag: PDF
+      link: https://www.climatechange.ai/papers/iclr2020/4/paper.pdf
+    - tag: talk
+      link: https://www.climatechange.ai/papers/iclr2020/4
+    - tag: code
+      link: https://github.com/ml-clim/drought-prediction
+  misc: Spotlight

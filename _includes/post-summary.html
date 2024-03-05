@@ -1,0 +1,12 @@
+<article>
+  <div class="post-meta">
+    <span class="post-date">
+      {{- post.date | date_to_string -}}
+    </span>
+  </div>
+  <h4>
+    <a href="{{ post.url | relative_url }}">
+      {{- post.title -}}
+    </a>
+  </h4>
+</article>
