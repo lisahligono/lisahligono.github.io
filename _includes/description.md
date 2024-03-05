@@ -9,6 +9,8 @@ Outside the classroom, I actively participate in hackathons and conferences, whe
 * **2 ML4Earth prizes**, both in 2022 (second place) and 2023 (first place)
 * **Big Data from Space 2023**, where we won best poster for our solution semantique4gee
 
+To know more about my current research and professional experience, check out my [researchgate](https://www.researchgate.net/profile/Lisah-Ligono) and [linkedin](https://www.linkedin.com/in/lisahligono)
+
 
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="440px"}
 ![Image Description](assets/img/cde_portfolio/cde.jpg){:width="340px"}
