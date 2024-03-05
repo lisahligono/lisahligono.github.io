@@ -11,7 +11,11 @@ In my geodata science pursuit, I am actively exploring the realms of Artificial 
 Outside of academia, I actively participate in hackathons, where I relish the opportunity to collaborate with peers and devise innovative solutions to pressing challenges. My involvement in these endeavors has been met with commendation, further fueling my passion for interdisciplinary problem-solving.
 
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="400px"}
-![Image Description](assets/img/cde_portfolio/cde.jpg){:width="300px"}
+![Image Description](assets/img/cde_portfolio/cde.jpg){:width="340px"}
+
+
+![Image Description](assets/img/cde_portfolio/plus.jpeg){:width="100px"}
+![Image Description](assets/img/cde_portfolio/ubs_logo.png){:width="100px"}
 
 
 
