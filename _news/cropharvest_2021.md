@@ -1,6 +1,6 @@
 ---
-date: 2021-10-10
-title: CropHarvest @ NeurIPS
+date: 2023-04-21
+title: Foresight DRM Disaster Mapping Hackathon
 layout: page
 ---
-The CropHarvest dataset is accepted at NeurIPS, in the dataset and benchmarks track! We compile multiple agricultural land cover datasets, and couple it with satellite data in an ML-ready format. Check out the [python package](https://github.com/nasaharvest/cropharvest), [paper](https://openreview.net/forum?id=JtjzUXPEaCu), and [tweet summary](https://twitter.com/gabriel_tseng/status/1490727718425710594).
+My team and I designed a web application 'EmergencyRoute' designed to aid emergency responders during a hurricane event. The app test site was the Bahamas during Hurricane Dorian in 2019. We finished 2nd place and were awarded $ 200 cash price. 
