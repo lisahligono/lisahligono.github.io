@@ -1,123 +1,44 @@
-- title: "Lightweight, Pre-trained Transformers for Remote Sensing Timeseries"
+- title: "An advanced framework for semantic querying of the dynamic world dataset"
   authors:
-    - Gabriel Tseng
-    - Ruben Cartuyvels
-    - Ivan Zvonkov
-    - Mirali Purohit
-    - David Rolnick
-    - Hannah Kerner
+    - Martin Sudmanns
+    - Lisah Ligono
+    - Hannah Augustin
+    - Lucas van der Meer
+    - Dirk Tiede
   year: 2023
-  journal: Neural Information Processing Systems (NeurIPS), Workshop on Tackling climate change with machine learning
-  misc: Spotlight
-  tags:
-    - tag: arXiv
-      link: https://arxiv.org/abs/2304.14065
-    - tag: code
-      link: https://github.com/nasaharvest/presto
-    - tag: workshop
-      link: https://www.climatechange.ai/papers/neurips2023/58
-- title: "Semi-Supervised Object Detection for Agriculture"
+  journal: BiDS 2023 Conference Proceedings 
+  - title: "Applicability of Texture Analysis and Dimensionality Reduction Techniques for Automatic Flood Mapping Using TerraSAR-X Imagery"
   authors:
-    - Gabriel Tseng
-    - Krisztina Sinkovics
-    - Tom Watsham
-    - David Rolnick
-    - Thomas C Walters
+    - Zahra Dabiri
+    - Jonas Schultze-Naumburg
+    - Stamatina Tounta
+    - Elena Nafieva 
+    - Lisah Ligono
   year: 2023
-  journal: AAAI Conference on Artificial Intelligence, AI for Agriculture and Food Systems (AIAFS) workshop
-  tags:
-    - tag: openreview
-      link: https://openreview.net/pdf?id=AR4SAOzcuz
-    - tag: code
-      link: https://github.com/SmallRobotCompany/smallteacher
-- title: "TIML: Task-Informed Meta-Learning for agriculture"
+  journal: TerraSAR-X/TanDEM-X Science Team Meeting 2023 
+- title: "Enhancing flood mapping from Sentinel-1 SAR data using deep learning"
   authors:
-    - Gabriel Tseng
-    - Hannah Kerner
-    - David Rolnick
+    - Lisah Ligono
+    - Zahra Dabiri
+    - Niklas Jaggy
+  year: 2023
+  journal: AI4Copernicus Conference Proceedings
+- title: "Integrated analysis of mangrove changes using the mangrove vegetation index and random forest classification in The Gambia"
+  authors:
+    - Lisah Ligono
+    - Chukwuma Okolie
   year: 2022
-  journal: AAAI Conference on Artificial Intelligence, AI for Agriculture and Food Systems (AIAFS) workshop
-  tags:
-    - tag: arxiv
-      link: https://arxiv.org/abs/2202.02124
-    - tag: code
-      link: https://github.com/nasaharvest/timl
-  misc: Long Talk
-- title: "CropHarvest: A global dataset for crop-type classification"
+  journal: The International Archives of the Photogrammetry Remote Sensing and Spatial Information Sciences 
+  - title: "Analysis of the impact of volcanic eruptions on fishery resources using Earth Observation data"
   authors:
-    - Gabriel Tseng
-    - Ivan Zvonkov
-    - Catherine Nakalembe
-    - Hannah Kerner
-  year: 2021
-  journal: Neural Information Processing Systems (NeurIPS) datasets and benchmarks track
-  tags:
-    - tag: openreview
-      link: https://openreview.net/forum?id=JtjzUXPEaCu
-    - tag: code
-      link: https://github.com/nasaharvest/cropharvest
-- title: "Learning to predict crop type from heterogeneous sparse labels using meta-learning"
-  authors:
-    - Gabriel Tseng
-    - Hannah Kerner
-    - Catherine Nakalembe
-    - Inbal Becker-Reshef
-  year: 2021
-  journal: Computer Vision and Pattern Recognition (CVPR), EarthVision workshop
-  tags:
-    - tag: PDF
-      link: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.pdf
-    - tag: paper
-      link: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Tseng_Learning_To_Predict_Crop_Type_From_Heterogeneous_Sparse_Labels_Using_CVPRW_2021_paper.html
-    - tag: code
-      link: https://github.com/nasaharvest/crop-maml
-- title: "Annual and In-Season Mapping of Cropland at Field Scale with Sparse Labels"
-  authors:
-    - Gabriel Tseng
-    - Hannah Kerner
-    - Catherine Nakalembe
-    - Inbal Becker-Reshef
-  year: 2020
-  journal: Neural Information Processing Systems (NeurIPS), Workshop on Tackling climate change with machine learning
-  tags:
-    - tag: PDF
-      link: https://www.climatechange.ai/papers/neurips2020/29/paper.pdf
-    - tag: talk
-      link: https://www.climatechange.ai/papers/neurips2020/29
-    - tag: code
-      link: https://github.com/nasaharvest/kenya-crop-mask
-- title: "Rapid Response Crop Maps in Data Sparse Regions"
-  authors:
-    - Hannah Kerner
-    - Gabriel Tseng
-    - Inbal Becker-Reshef
-    - Catherine Nakalembe
-    - Brian Barker
-    - Blake Munshell
-    - Madhava Paliyam
-    - Mehdi Hosseini
-  year: 2020
-  journal: Knowledge Discovery and Data (KDD), Workshop on Humanitarian Mapping
-  tags:
-    - tag: arxiv
-      link: https://arxiv.org/abs/2006.16866
-    - tag: code
-      link: https://github.com/nasaharvest/togo-crop-mask
-- title: A machine learning pipeline to predict vegetation health
-  authors:
-    - Thomas Lees
-    - Gabriel Tseng
-    - Alex Hernandez-Garcia
-    - Clement Atzberger
-    - Simon Dadson
-    - Steven Reece
-  year: 2020
-  journal: International Conference on Learning Representations (ICLR), Workshop on Tackling climate change with machine learning
-  tags:
-    - tag: PDF
-      link: https://www.climatechange.ai/papers/iclr2020/4/paper.pdf
-    - tag: talk
-      link: https://www.climatechange.ai/papers/iclr2020/4
-    - tag: code
-      link: https://github.com/ml-clim/drought-prediction
-  misc: Spotlight
+    - Zachary Rowland 
+    - Thi Minh-Trang Nguyen 
+    - Christodoulou Georgia 
+    - Fernández-Rodríguez Eva 
+    - Okolie Chukwuma  
+    - Ligono Lisah 
+    - Kaur Gagandeep 
+    - Okba Zahra
+  year: 2022
+  journal: 73rd International Astronautical Congress (IAC), Paris, France, 18-22 September 2022
+  
