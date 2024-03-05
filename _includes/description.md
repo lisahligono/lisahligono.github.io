@@ -1,4 +1,4 @@
-Hi there! I am Lisah Ligono, currently undertaking the role of an Erasmus Scholar within the Copernicus Master in Digital Earth Program ([CDE](https://master-cde.eu)). This program enables me to study in two countries (Austria and France) that will lead me to in graduating with a European double master degree. This experience has enabled me live in diverse regions in Europe, from the captivating mountanious landscapes of Salzburg to the coastal allure of Vannes. 
+Hi there! I am Lisah Ligono, currently undertaking the role of an Erasmus Scholar within the Copernicus Master in Digital Earth Program ([CDE](https://master-cde.eu)). This program enables me to study in two countries (Austria and France) that will lead me to graduating with a European double master degree. This experience has enabled me to live in diverse regions in Europe, from the captivating mountanious landscapes of Salzburg to the coastal allure of Vannes. 
 
 My specialization lies in the **Geodata Science track**, where I am thoroughly engaged in the utilization of advanced technologies to analyze and interpret complex spatial data. I am intrigued by emerging technologies thus my motivation in working in the [artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence) domain.
 
@@ -13,7 +13,7 @@ Outside the classroom, I actively participate in hackathons and conferences, whe
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="440px"}
 ![Image Description](assets/img/cde_portfolio/cde.jpg){:width="340px"}
 
-![Image Description](assets/img/cde_portfolio/plus2.jpeg){:width="300px"}
+![Image Description](assets/img/cde_portfolio/plus2.jpeg){:width="250px"}
 ![Image Description](assets/img/cde_portfolio/ubs_logo.png){:width="200px"}
 
 
