@@ -1,13 +1,24 @@
-Hello! My name is Gabi. I am a PhD student at [McGill](https://www.mcgill.ca/) / [Mila](https://mila.quebec/), working under the supervision of Professor [David Rolnick](https://davidrolnick.com/) to investigate ways in which machine learning can help fight climate change. This includes working with Professor [Hannah Kerner](https://hannah-rae.github.io/) at [NASA Harvest](https://nasaharvest.org/).
+🌍 **About Me**
 
-My research focusses on applications of machine learning to remote sensing for agriculture. We can [learn a lot](https://arxiv.org/abs/2006.16866) about global agricultural practices from satellite data, and we generate an enormous amount of satellite data. I investigate how machine learning algorithms can be applied to this satellite imagery. In particular, I think about how we can take advantage of the metadata which accompanies satellite imagery and agricultural data to [improve machine learning in this regime](https://arxiv.org/abs/2202.02124).
+Hello! I am Lisah Ligono, currently undertaking the role of an Erasmus Scholar within the Copernicus Master in Digital Earth Program ([CDE](https://master-cde.eu)). This prestigious program has afforded me the opportunity to traverse the captivating landscapes of Salzburg, Austria, and the coastal allure of Bretagne Sud, France. My endeavors are deeply rooted in the exploration of geodata science and its profound implications for addressing significant environmental challenges, particularly in the realm of climate change mitigation.
 
-In addition to machine learning for remote sensing and agriculture, I have been lucky to contribute to:
-* **Technology for good**, such as for [sustainable and regenerative farming](https://www.smallrobotcompany.com/), or to [increase energy access](https://okrasolar.com/)
-* **Interpretable machine learning** using [open source tools](https://github.com/slundberg/shap)
+🛰️ **Specialization**
 
-I also love spending time outdoors, either by [climbing](https://i2.wp.com/oolongaloha.com/wp-content/uploads/2020/09/1600244370139-1-scaled.jpg?strip=info&w=2000&ssl=1) or [running](https://i0.wp.com/oolongaloha.com/wp-content/uploads/2020/03/DJI_0070-1-scaled.jpg?w=2280&ssl=1) in [beautiful](https://i2.wp.com/oolongaloha.com/wp-content/uploads/2022/01/IMG_20211120_122140.jpg?strip=info&w=1254&ssl=1) [places](https://i2.wp.com/oolongaloha.com/wp-content/uploads/2019/08/IMG_4514.png?w=2280&ssl=1).
+Within the program, my specialization lies in the Geodata Science track, where I am thoroughly engaged in the utilization of advanced technologies to analyze and interpret complex spatial data. My focus extends to the pivotal role of biodiversities, such as mangroves, in fostering ecological equilibrium and mitigating the impacts of climate change.
 
-In addition to the technical blog [here](/blog), I also have a non technical blog, at [oolongaloha.com](http://oolongaloha.com)
+📡 **Expertise**
 
-You can check out my CV [here](/assets/resume.pdf).
+With a keen eye for detail, I have amassed considerable expertise in the analysis of satellite imagery, employing it as a potent tool in various research initiatives. This proficiency enables me to derive valuable insights into environmental phenomena and inform evidence-based decision-making processes.
+
+🤖 **Exploring AI/ML/DL**
+
+In tandem with my pursuits in geodata science, I am actively exploring the realms of Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL). I am captivated by their potential to revolutionize remote sensing methodologies and enhance our understanding of Earth systems dynamics.
+
+🏆 **Extracurricular Endeavors**
+
+Outside of academia, I actively participate in hackathons, where I relish the opportunity to collaborate with peers and devise innovative solutions to pressing challenges. My involvement in these endeavors has been met with commendation, further fueling my passion for interdisciplinary problem-solving.
+
+🌟 **Vision**
+
+Driven by a fervent commitment to environmental stewardship, my overarching vision is to leverage my expertise and experiences to effect positive change on a global scale. Through collaborative endeavors and the application of cutting-edge technologies, I aspire to contribute meaningfully towards the advancement of sustainable development goals and the preservation of our planet for future generations.
+
