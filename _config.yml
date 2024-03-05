@@ -13,16 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gabriel Tseng
-tagline: Machine learning and Climate Change
-email: gabrieltseng95@gmail.com
-twitter_username: gabriel_tseng
-github_username:  gabrieltseng
-twitter:
-  - username: gabriel_tseng
-description: Machine Learning and Climate Change
-author: Gabriel Tseng
-url: https://gabrieltseng.github.io
+title: Lisah Ligono
+tagline: Geodata Science
+email: lisahligono@gmail.com
+github_username:  lisahligono
+author: Lisah Ligono
+url: https://lisahligono.github.io
 logo: /assets/images/logo1.png
 
 # Reading Files
