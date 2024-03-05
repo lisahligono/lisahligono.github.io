@@ -13,8 +13,7 @@ Outside of academia, I actively participate in hackathons, where I relish the op
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="440px"}
 ![Image Description](assets/img/cde_portfolio/cde.jpg){:width="340px"}
 
-
-![Image Description](assets/img/cde_portfolio/plus.jpeg){:width="400px"}
+![Image Description](assets/img/cde_portfolio/plus2.jpeg){:width="300px"}
 ![Image Description](assets/img/cde_portfolio/ubs_logo.png){:width="200px"}
 
 
