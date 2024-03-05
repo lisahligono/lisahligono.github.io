@@ -27,11 +27,11 @@ The next task encompassed an in-depth investigation of datasets capturing night-
 
 A substantial portion of my internship was dedicated to a study of flood mapping using deep learning algorithms. This research aimed to leverage automated methods to create flood maps from Sentinel-1 images after a flood event. The findings of this research were presented at the AI4Copernicus 2023 conference. 
 
-### AI4Copernicus Conference
+#### AI4Copernicus Conference
 
 On May 25, 2023, I presented my research titled Enhancing flood mapping from Sentinel-1 SAR data using deep learning at the AI4Copernicus 2023 Conference in Luxembourg. The conference was attended by scholars and AI experts all round Europe and I had the unique opportunity to share the insights garnered from my research. 
 
-## Reccommendation for future interns
+### Reccommendation for future interns
 
 Future inters could consider developing an automated system to create flood masks using Sentinel-1 images, rather than relying on existing online platforms. This could improve the efficiency and accuracy of flood monitoring. In the process offered a chance to enhance skills in image processing and data analysis while contributing to more effective disaster management techniques.
 
