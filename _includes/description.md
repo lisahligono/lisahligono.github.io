@@ -6,7 +6,7 @@ My specialization lies in the **Geodata Science track**, where I am thoroughly e
 Outside the classroom, I actively participate in hackathons and conferences, where I relish the opportunity to collaborate with peers and devise innovative solutions to pressing challenges. My involvement in these endeavors has been met with commendation and I have been honoured to win coveted awards such as:
 
 * **Copernicus Masters Space Awards 2022**, wining the Regional Prize Madrid/Spain
-* **2 ML4Earth prizes**, both in 2022 (second place) and 2023 (first place)
+* **2 ML4Earth prizes**, both in 2022 (third place) and 2023 (first place)
 * **Big Data from Space 2023**, where we won best poster for our solution semantique4gee
 
 To know more about my current research and professional experience, check out my [Google Scholar](https://scholar.google.com/citations?user=aNHmnMsAAAAJ&hl=en&oi=ao), [ResearchGate](https://www.researchgate.net/profile/Lisah-Ligono) and [LinkedIn](https://www.linkedin.com/in/lisahligono)
