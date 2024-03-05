@@ -5,6 +5,10 @@ My specialization lies in the **Geodata Science track**, where I am thoroughly e
 
 Outside the classroom, I actively participate in hackathons and conferences, where I relish the opportunity to collaborate with peers and devise innovative solutions to pressing challenges. My involvement in these endeavors has been met with commendation and I have been honoured to win coveted awards such as:
 
+* **Copernicus Masters Space Awards**, wining the Regional Prize Madrid/Spain
+* **2 ML4Earth prizes**, both in 2022 (second place) and 2023 (first place)
+* 
+
 
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="440px"}
 ![Image Description](assets/img/cde_portfolio/cde.jpg){:width="340px"}
