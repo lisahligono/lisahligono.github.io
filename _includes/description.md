@@ -7,7 +7,7 @@ Outside the classroom, I actively participate in hackathons and conferences, whe
 
 * **Copernicus Masters Space Awards**, wining the Regional Prize Madrid/Spain
 * **2 ML4Earth prizes**, both in 2022 (second place) and 2023 (first place)
-* 
+* **Big Data from Space 2023**, where we won best poster for our solution semantique4gee
 
 
 ![Image Description](assets/img/cde_portfolio/erasmus.jpeg){:width="440px"}
