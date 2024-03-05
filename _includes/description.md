@@ -1,6 +1,8 @@
 🌍 **About Me**
 
-Hi there! I am Lisah Ligono, currently undertaking the role of an Erasmus Scholar within the Copernicus Master in Digital Earth Program ([CDE](https://master-cde.eu)). This prestigious program has afforded me the opportunity to traverse the captivating landscapes of Salzburg, Austria, and the coastal allure of Bretagne Sud, France. My endeavors are deeply rooted in the exploration of geodata science and its profound implications for addressing significant environmental challenges, particularly in the realm of climate change mitigation. Within the program, my specialization lies in the **Geodata Science track**, where I am thoroughly engaged in the utilization of advanced technologies to analyze and interpret complex spatial data. My focus extends to the pivotal role of biodiversities, such as mangroves, in fostering ecological equilibrium and mitigating the impacts of climate change.
+Hi there! I am Lisah Ligono, currently undertaking the role of an Erasmus Scholar within the Copernicus Master in Digital Earth Program ([CDE](https://master-cde.eu)). This program enables me to study in two countries (Austria and France) leading me to graduating with a European double master degree. Thie experience has enable me live in diverse landscapes, from the captivating mountanious landscapes of Salzburg to the coastal allure of Vannes. 
+
+My specialization lies in the **Geodata Science track**, where I am thoroughly engaged in the utilization of advanced technologies to analyze and interpret complex spatial data. 
 
 🤖 **Exploring AI/ML/DL**
 
