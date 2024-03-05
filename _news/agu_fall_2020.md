@@ -1,6 +1,6 @@
 ---
-date: 2020-12-8
-title: AGU Fall Meeting
+date: 2023-11-6
+title: BiDS 2023 Conference
 layout: page
 ---
-I presented at the <em>Solving Training Data Bottlenecks for Artificial Intelligence/Machine Learning in Earth Science</em> eLightning session, where I discussed the work I have been doing with Harvest to develop crop maps in data-sparse regions.
+Our paper <em>An advanced framework for semantic querying of the dynamic world dataset</em> which is a groundbreaking project utilizing the Semantique Python package for semantic querying on the Google Dynamic World dataset won us the Best Poster award at the conference.
