@@ -4,8 +4,8 @@ title:  "GeoHUM Internship"
 date:   2023-05-30 10:17:15 -0500
 ---
 
-### Building a flood catalogue, night-time light research and deep learning for flood masks
-### executive summary
+## Building a flood catalogue, night-time light research and deep learning for flood masks
+### Executive summary
 This report presents the outcomes of my internship that aimed to explore and enhance disaster response strategies through the utilization of data-driven approaches. The core tasks undertaken during this internship were meticulously designed to contribute significantly to the field of disaster response and preparedness. The initial task focused on the development of a comprehensive floods catalogue by exploring existing global datasets. This catalogue provides a vital resource, compiling essential information and parameters related to flooding incidents. The organized and easily accessible information within this catalogue has the potential to inform decision-making and disaster response strategies in regions prone to floods. The second task delved into the exploration of night-time light datasets, aiming to extract valuable insights into human activity patterns in disaster-affected regions. By analyzing these datasets, a deeper understanding of nocturnal movement, infrastructure utilization, and activity patterns was gained. A substantial portion of the internship was dedicated to investigating flood mapping techniques using advanced deep learning methodologies. This research aimed to leverage cutting-edge algorithms to produce more automated flood maps from Sentinel-1 images. The outcomes of this research were presented at the AI4Copernicus 2023 conference, a significant platform for disseminating advancements at the intersection of Artificial Intelligence and Copernicus data.
 
 ### Task description
