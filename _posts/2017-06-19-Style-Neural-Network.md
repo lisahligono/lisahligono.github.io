@@ -13,8 +13,11 @@ In this master thesis, we are interested in studying the suitability of Sentinel
 
 ###### References
 [1] Sainte Fare Garnot, V., & Landrieu, L. (2020). Lightweight temporal self-attention for classifying satellite images time series. In Advanced Analytics and Learning on Temporal Data (AALTD): 5th ECML PKDD Workshop, (pp. 171-181). Springer International Publishing.
+
 [2] Lafabregue, B., Weber, J., Gan¸carski, P., & Forestier, G. (2022). End-to-end deep representation learning for time series clustering: a comparative study. Data Mining and Knowledge Discovery, 36(1), 29-81.
+
 [3] Maurya, K., Mahajan, S., & Chaube, N. (2021). Remote sensing techniques: Mapping and monitoring of mangrove ecosystem—A review. Complex & Intelligent Systems, 7, 2797-2818.
+
 [4] Viennois, G., Proisy, C., Feret, J. B., Prosperi, J., Sidik, F., Rahmania, R., ... & Gaspar, P. (2016). Multitemporal analysis of high-spatial-resolution optical satellite imagery for mangrove species mapping in Bali, Indonesia. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 9(8), 3680-3686.
 
 
