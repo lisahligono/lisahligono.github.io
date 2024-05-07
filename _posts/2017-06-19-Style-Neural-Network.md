@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Thesis"
-date:   2024-05-07 10:17:15 -0500
+date:   2023-08-15 10:17:15 -0500
 ---
 
 ### Analysing mangrove spectral signatures in French Guiana from satellite image time series
